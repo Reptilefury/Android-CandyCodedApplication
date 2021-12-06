@@ -1132,6 +1132,8 @@ menu detail
 menu main
 mipmap ic_launcher
 mipmap ic_launcher_round
+string _012_345_6789
+string _618_e_south_st_orlando_fl
 string abc_action_bar_home_description
 string abc_action_bar_up_description
 string abc_action_menu_overflow_description
