@@ -3,6 +3,7 @@ package com.pluralsight.candycoded;
 import android.content.Intent;
 import android.content.res.Resources;
 import android.content.res.XmlResourceParser;
+import android.drm.DrmStore;
 import android.net.Uri;
 import android.os.Bundle;
 import androidx.appcompat.app.AppCompatActivity;
@@ -16,7 +17,6 @@ import org.xmlpull.v1.XmlPullParser;
 import org.xmlpull.v1.XmlPullParserException;
 
 public class InfoActivity extends AppCompatActivity {
-  Uri uri = Uri.parse("geo:0,0?q=618 E South St Orlando, FL 32801");
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -31,13 +31,20 @@ public class InfoActivity extends AppCompatActivity {
 
     }
   public  void  createMapIntent( View view){
-        Intent mapIntent = new Intent(Intent.ACTION_VIEW, uri);
+        Uri uri = Uri.parse("geo:0,0?q=618 E South St Orlando, FL 32801");
+      Intent mapIntent = new Intent(Intent.ACTION_VIEW, uri);
         mapIntent.setPackage("com.google.android.apps.maps");
          if(mapIntent.resolveActivity(getPackageManager())!= null){
              startActivity(mapIntent);
          }
+    };
+
+    public  void createPhoneIntent(View view){
+        Uri uri =Uri.parse("tel:0123456789");
+        Intent Action_Dial = new Intent(Intent.ACTION_DIAL);
+        Action_Dial.setData(uri);
+        startActivity(Action_Dial);
     }
- ;
 
 
     // ***
