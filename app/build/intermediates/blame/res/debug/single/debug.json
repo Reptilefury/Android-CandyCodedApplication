@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "/home/reptilefury/add-implicit-and-explicit-intents-to-an-android-candy-store-app-v7.0.0/pluralsight-projects-Android-CandyCodedApplication-a91764a/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/reptilefury/add-implicit-and-explicit-intents-to-an-android-candy-store-app-v7.0.0/pluralsight-projects-Android-CandyCodedApplication-a91764a/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/reptilefury/add-implicit-and-explicit-intents-to-an-android-candy-store-app-v7.0.0/pluralsight-projects-Android-CandyCodedApplication-a91764a/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/reptilefury/add-implicit-and-explicit-intents-to-an-android-candy-store-app-v7.0.0/pluralsight-projects-Android-CandyCodedApplication-a91764a/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/reptilefury/add-implicit-and-explicit-intents-to-an-android-candy-store-app-v7.0.0/pluralsight-projects-Android-CandyCodedApplication-a91764a/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/reptilefury/add-implicit-and-explicit-intents-to-an-android-candy-store-app-v7.0.0/pluralsight-projects-Android-CandyCodedApplication-a91764a/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/reptilefury/add-implicit-and-explicit-intents-to-an-android-candy-store-app-v7.0.0/pluralsight-projects-Android-CandyCodedApplication-a91764a/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/reptilefury/add-implicit-and-explicit-intents-to-an-android-candy-store-app-v7.0.0/pluralsight-projects-Android-CandyCodedApplication-a91764a/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/reptilefury/add-implicit-and-explicit-intents-to-an-android-candy-store-app-v7.0.0/pluralsight-projects-Android-CandyCodedApplication-a91764a/app/build/intermediates/res/merged/debug/layout_activity_detail.xml.flat",
+        "source": "/home/reptilefury/add-implicit-and-explicit-intents-to-an-android-candy-store-app-v7.0.0/pluralsight-projects-Android-CandyCodedApplication-a91764a/app/src/main/res/layout/activity_detail.xml"
+    },
+    {
+        "merged": "/home/reptilefury/add-implicit-and-explicit-intents-to-an-android-candy-store-app-v7.0.0/pluralsight-projects-Android-CandyCodedApplication-a91764a/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/reptilefury/add-implicit-and-explicit-intents-to-an-android-candy-store-app-v7.0.0/pluralsight-projects-Android-CandyCodedApplication-a91764a/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/reptilefury/add-implicit-and-explicit-intents-to-an-android-candy-store-app-v7.0.0/pluralsight-projects-Android-CandyCodedApplication-a91764a/app/build/intermediates/res/merged/debug/drawable_placeholder_landscape.png.flat",
+        "source": "/home/reptilefury/add-implicit-and-explicit-intents-to-an-android-candy-store-app-v7.0.0/pluralsight-projects-Android-CandyCodedApplication-a91764a/app/src/main/res/drawable/placeholder_landscape.png"
+    },
+    {
+        "merged": "/home/reptilefury/add-implicit-and-explicit-intents-to-an-android-candy-store-app-v7.0.0/pluralsight-projects-Android-CandyCodedApplication-a91764a/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/reptilefury/add-implicit-and-explicit-intents-to-an-android-candy-store-app-v7.0.0/pluralsight-projects-Android-CandyCodedApplication-a91764a/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/reptilefury/add-implicit-and-explicit-intents-to-an-android-candy-store-app-v7.0.0/pluralsight-projects-Android-CandyCodedApplication-a91764a/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/reptilefury/add-implicit-and-explicit-intents-to-an-android-candy-store-app-v7.0.0/pluralsight-projects-Android-CandyCodedApplication-a91764a/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/reptilefury/add-implicit-and-explicit-intents-to-an-android-candy-store-app-v7.0.0/pluralsight-projects-Android-CandyCodedApplication-a91764a/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/reptilefury/add-implicit-and-explicit-intents-to-an-android-candy-store-app-v7.0.0/pluralsight-projects-Android-CandyCodedApplication-a91764a/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/reptilefury/add-implicit-and-explicit-intents-to-an-android-candy-store-app-v7.0.0/pluralsight-projects-Android-CandyCodedApplication-a91764a/app/build/intermediates/res/merged/debug/drawable_placeholder.png.flat",
+        "source": "/home/reptilefury/add-implicit-and-explicit-intents-to-an-android-candy-store-app-v7.0.0/pluralsight-projects-Android-CandyCodedApplication-a91764a/app/src/main/res/drawable/placeholder.png"
+    },
+    {
+        "merged": "/home/reptilefury/add-implicit-and-explicit-intents-to-an-android-candy-store-app-v7.0.0/pluralsight-projects-Android-CandyCodedApplication-a91764a/app/build/intermediates/res/merged/debug/drawable_candy_coded.png.flat",
+        "source": "/home/reptilefury/add-implicit-and-explicit-intents-to-an-android-candy-store-app-v7.0.0/pluralsight-projects-Android-CandyCodedApplication-a91764a/app/src/main/res/drawable/candy_coded.png"
+    },
+    {
+        "merged": "/home/reptilefury/add-implicit-and-explicit-intents-to-an-android-candy-store-app-v7.0.0/pluralsight-projects-Android-CandyCodedApplication-a91764a/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/reptilefury/add-implicit-and-explicit-intents-to-an-android-candy-store-app-v7.0.0/pluralsight-projects-Android-CandyCodedApplication-a91764a/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/reptilefury/add-implicit-and-explicit-intents-to-an-android-candy-store-app-v7.0.0/pluralsight-projects-Android-CandyCodedApplication-a91764a/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/home/reptilefury/add-implicit-and-explicit-intents-to-an-android-candy-store-app-v7.0.0/pluralsight-projects-Android-CandyCodedApplication-a91764a/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/reptilefury/add-implicit-and-explicit-intents-to-an-android-candy-store-app-v7.0.0/pluralsight-projects-Android-CandyCodedApplication-a91764a/app/build/intermediates/res/merged/debug/layout_activity_info.xml.flat",
+        "source": "/home/reptilefury/add-implicit-and-explicit-intents-to-an-android-candy-store-app-v7.0.0/pluralsight-projects-Android-CandyCodedApplication-a91764a/app/src/main/res/layout/activity_info.xml"
+    },
+    {
+        "merged": "/home/reptilefury/add-implicit-and-explicit-intents-to-an-android-candy-store-app-v7.0.0/pluralsight-projects-Android-CandyCodedApplication-a91764a/app/build/intermediates/res/merged/debug/drawable_store_front.png.flat",
+        "source": "/home/reptilefury/add-implicit-and-explicit-intents-to-an-android-candy-store-app-v7.0.0/pluralsight-projects-Android-CandyCodedApplication-a91764a/app/src/main/res/drawable/store_front.png"
+    },
+    {
+        "merged": "/home/reptilefury/add-implicit-and-explicit-intents-to-an-android-candy-store-app-v7.0.0/pluralsight-projects-Android-CandyCodedApplication-a91764a/app/build/intermediates/res/merged/debug/menu_detail.xml.flat",
+        "source": "/home/reptilefury/add-implicit-and-explicit-intents-to-an-android-candy-store-app-v7.0.0/pluralsight-projects-Android-CandyCodedApplication-a91764a/app/src/main/res/menu/detail.xml"
+    },
+    {
+        "merged": "/home/reptilefury/add-implicit-and-explicit-intents-to-an-android-candy-store-app-v7.0.0/pluralsight-projects-Android-CandyCodedApplication-a91764a/app/build/intermediates/res/merged/debug/layout_list_item_candy.xml.flat",
+        "source": "/home/reptilefury/add-implicit-and-explicit-intents-to-an-android-candy-store-app-v7.0.0/pluralsight-projects-Android-CandyCodedApplication-a91764a/app/src/main/res/layout/list_item_candy.xml"
+    },
+    {
+        "merged": "/home/reptilefury/add-implicit-and-explicit-intents-to-an-android-candy-store-app-v7.0.0/pluralsight-projects-Android-CandyCodedApplication-a91764a/app/build/intermediates/res/merged/debug/menu_main.xml.flat",
+        "source": "/home/reptilefury/add-implicit-and-explicit-intents-to-an-android-candy-store-app-v7.0.0/pluralsight-projects-Android-CandyCodedApplication-a91764a/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/home/reptilefury/add-implicit-and-explicit-intents-to-an-android-candy-store-app-v7.0.0/pluralsight-projects-Android-CandyCodedApplication-a91764a/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/home/reptilefury/add-implicit-and-explicit-intents-to-an-android-candy-store-app-v7.0.0/pluralsight-projects-Android-CandyCodedApplication-a91764a/app/src/main/res/layout/activity_main.xml"
+    }
+]
